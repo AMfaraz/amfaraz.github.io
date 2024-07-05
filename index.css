@@ -539,6 +539,7 @@ body:not(.user-is-tabbing) a:focus {
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
+
 }
 
 @media(max-width: 900px) {
@@ -554,7 +555,8 @@ body:not(.user-is-tabbing) a:focus {
 
 @media(min-width: 901px) {
     .about__text {
-        flex: 0 0 35%;
+        /* flex: 0 0 35%; */
+        flex: 1;
     }
     
     .about__photo-container {
