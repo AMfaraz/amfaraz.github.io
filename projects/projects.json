@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Cashflow",
+    "desc": "A mobile Banking application built using Flutter, Dart, SQflite.",
+    "image": "cashflow",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/abdul-majeed-faraz-803b31203_dbms-flutter-sqflite-activity-7200745916092317696-c3_V?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/AMfaraz/CashFlow"
+    }
+  },
+  {
+    "name": "Photo Unit Converter",
+    "desc": "An automatic unit converter which automatically converts from picture.Build using Flutter, Dart, OCR",
+    "image": "conversion",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/AMfaraz/Unit-Converter"
+    }
+  },
+  {
+    "name": "E-commerce shop",
+    "desc": "An e-commerce shop built using Flutte, Dart, Firebase",
+    "image": "e-com",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/abdul-majeed-faraz-803b31203_flutter-firebase-ecommerceapp-activity-7169255291681652736-ca5P?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/AMfaraz/Shop_App"
+    }
+  },
+  {
+    "name": "Expense Planner",
+    "desc": "A response expense planner to help you track your expenses. Built using Flutter and Dart",
+    "image": "expanse-planner",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/abdul-majeed-faraz-803b31203_expense-planner-with-flutter-activity-6952165022353498112-hHti?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/AMfaraz/Expense-Planner"
+    }
+  }
+
+]
