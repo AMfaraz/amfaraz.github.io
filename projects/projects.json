@@ -10,6 +10,16 @@
     }
   },
   {
+    "name": "DSA Book",
+    "desc": "A Desktop MCQ testing Service built in C++, WinForm. It uses Data structure to effiecently handle mcqs",
+    "image": "dsa-book",
+    "category": "Windows",
+    "links": {
+      "view": "https://www.linkedin.com/posts/abdul-majeed-faraz-803b31203_education-edtech-innovation-activity-7142254223915745280-E90H?utm_source=share&utm_medium=member_desktop",
+      "code": "#"
+    }
+  },
+  {
     "name": "Photo Unit Converter",
     "desc": "An automatic unit converter which automatically converts from picture.Build using Flutter, Dart, OCR",
     "image": "conversion",
