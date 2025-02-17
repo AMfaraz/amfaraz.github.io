@@ -48,6 +48,16 @@
       "view": "https://www.linkedin.com/posts/abdul-majeed-faraz-803b31203_expense-planner-with-flutter-activity-6952165022353498112-hHti?utm_source=share&utm_medium=member_desktop",
       "code": "https://github.com/AMfaraz/Expense-Planner"
     }
+  },
+  {
+    "name": "Expense Tracker",
+    "desc": "A response expense tracker to help you track your expenses. Built using Flutter and Dart",
+    "image": "expense-tracker",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/abdul-majeed-faraz-803b31203_fluttet-dart-getx-activity-7285631304149127236-Y6nE?utm_source=share&utm_medium=member_desktop&rcm=ACoAADP1ckMBeplPPOW-FE7GQQHelPf4ADeOlGs",
+      "code": "https://github.com/AMfaraz/expanse_tracker"
+    }
   }
 
 ]
